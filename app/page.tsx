@@ -464,7 +464,7 @@ export default function Home() {
                         </svg>
                       </div>
                       <div>
-                        <p className="font-bold text-white text-lg">@stack__and__scale</p>
+                        <p className="font-bold text-white text-lg">@stack&scale</p>
                         <p className="text-white/40 text-sm">Follow us on Instagram</p>
                       </div>
                     </div>
