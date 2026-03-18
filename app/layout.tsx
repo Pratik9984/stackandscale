@@ -14,7 +14,7 @@ export const metadata: Metadata = {
     title: "Stack&Scale | Web Development & Digital Marketing",
     description: "We partner with ambitious brands to build blazing-fast websites and digital marketing strategies that turn visitors into loyal customers.",
     url: "https://yourwebsite.com", // You will update this later when live
-    siteName: "Stack&Scale Freelance",
+    siteName: "Stack&Scale",
     type: "website",
   },
 };
